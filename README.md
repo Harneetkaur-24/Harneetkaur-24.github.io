@@ -1,6 +1,6 @@
-# 👩‍💻 Harneet Kaur – Business Analyst Portfolio  
+# 👩‍💻 Harneet Kaur – Aspiring Data Analyst Portfolio  
 
-Welcome to my professional portfolio! I'm an Aspiring Business Analyst passionate about turning raw data into meaningful insights that drive business decisions. This portfolio showcases my practical skills in Excel, Power BI, SQL, and project-based problem-solving.
+Welcome to my professional portfolio! I'm an Aspiring Data Analyst passionate about turning raw data into meaningful insights that drive business decisions. This portfolio showcases my practical skills in Excel, Power BI, SQL, and project-based problem-solving.
 
 ---
 
